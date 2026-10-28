@@ -46,6 +46,7 @@
 	"overrides": {
 		"undici": "^7.30.1",
 		"brace-expansion": "^2.1.7",
-		"postcss": "^8.5.23"
+		"postcss": "^8.5.23",
+		"lodash": "^4.18.0"
 	}
 }
