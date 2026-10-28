@@ -42,5 +42,8 @@
 		"preview": "npm run build && vite preview",
 		"typecheck": "npm run typegen && tsc -b"
 	},
-	"type": "module"
+	"type": "module",
+	"overrides": {
+		"undici": "^7.30.1"
+	}
 }
