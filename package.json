@@ -45,6 +45,7 @@
 	"type": "module",
 	"overrides": {
 		"undici": "^7.30.1",
-		"brace-expansion": "^2.1.7"
+		"brace-expansion": "^2.1.7",
+		"postcss": "^8.5.23"
 	}
 }
